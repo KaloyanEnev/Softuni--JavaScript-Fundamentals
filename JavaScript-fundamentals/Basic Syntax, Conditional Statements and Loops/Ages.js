@@ -16,4 +16,5 @@ function Ages(age){
         console.log(`elder`);
     }
 }
+// changes
 Ages(100);
